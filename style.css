@@ -1,0 +1,33 @@
+.name, .age, .email, .country{
+    float: left;
+    clear: left;
+    width: 50%;
+    height: 40px;
+    display: block;
+    margin-bottom: 10px;
+}
+.wrapper{
+    width: 65%;
+    margin: 0 auto;
+}
+.question{
+    float: left;
+    width: 50%;
+    display: block;
+    clear: both;
+    max-width: 100%;
+}
+h2{
+    margin: 10px;
+    float: left;
+    clear: both;
+}
+
+.button{
+    float: left;
+    display: block;
+    clear: both;
+    width: 100px;
+    height: 70px;
+    margin-top: 10px;
+}
